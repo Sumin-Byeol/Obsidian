@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4774d6e8e55f807",
+        "id": "a87129e9d33aca6a",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb865d39bf26c96",
+            "id": "da71e839f963d7e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "469bb83655784d82",
+  "active": "da71e839f963d7e4",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "README.md",
     "무제 폴더/무제 폴더",
     "무제 폴더",
     "무제 파일.md"
