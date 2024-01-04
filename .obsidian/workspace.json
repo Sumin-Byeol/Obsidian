@@ -11,8 +11,12 @@
             "id": "cbb865d39bf26c96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,6 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cbb865d39bf26c96",
-  "lastOpenFiles": []
+  "active": "469bb83655784d82",
+  "lastOpenFiles": [
+    "무제 폴더",
+    "무제 파일.md"
+  ]
 }
