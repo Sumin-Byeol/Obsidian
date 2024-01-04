@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +147,7 @@
   },
   "active": "469bb83655784d82",
   "lastOpenFiles": [
+    "무제 폴더/무제 폴더",
     "무제 폴더",
     "무제 파일.md"
   ]
