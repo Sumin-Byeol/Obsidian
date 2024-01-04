@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-03.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-03.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-03.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-03.md"
+                "file": "SeSAC/2. Weekly/2024-W01.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "38b9e4e41bc87474",
+  "active": "11e053dfdbf307eb",
   "lastOpenFiles": [
+    "SeSAC/1. Daily/2024-01-03.md",
     "SeSAC/1. Daily/2024-01-02.md",
     "README.md",
-    "SeSAC/1. Daily/2024-01-03.md",
     "무제 파일.canvas"
   ]
 }
