@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SeSAC/2. Weekly/2024-W01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SeSAC/2. Weekly/2024-W01.md"
               }
             }
           }
@@ -148,11 +148,10 @@
   },
   "active": "38b9e4e41bc87474",
   "lastOpenFiles": [
-    "2024-01-04.md",
-    "README.md",
     "SeSAC/1. Daily/2024-01-03.md",
-    "SeSAC/1. Daily/2024-01-02.md",
     "SeSAC/2. Weekly/2024-W01.md",
+    "SeSAC/1. Daily/2024-01-02.md",
+    "README.md",
     "무제 파일.canvas"
   ]
 }
