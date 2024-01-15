@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-09.md",
+                "file": "SeSAC/1. Daily/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb57dabfee041ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeSAC/1. Daily/2024-01-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-09.md",
+                "file": "SeSAC/1. Daily/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-09.md",
+                "file": "SeSAC/1. Daily/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-09.md"
+                "file": "SeSAC/1. Daily/2024-01-12.md"
               }
             }
           }
@@ -146,19 +159,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "38b9e4e41bc87474",
+  "active": "1bb57dabfee041ce",
   "lastOpenFiles": [
-    "SeSAC/1. Daily/2024-01-03.md",
-    "SeSAC/1. Daily/2024-01-09.md",
-    "SeSAC/1. Daily/2024-01-04.md",
     "SeSAC/1. Daily/2024-01-05.md",
+    "무제 파일.canvas",
+    "SeSAC/1. Daily/2024-01-12.md",
+    "SeSAC/1. Daily/2024-01-04.md",
     "SeSAC/1. Daily/2024-01-08.md",
+    "SeSAC/1. Daily/2024-01-09.md",
+    "SeSAC/1. Daily/2024-01-13.md",
+    "SeSAC/1. Daily/2024-01-03.md",
     "SeSAC/2. Weekly/2024-W01.md",
     "SeSAC/3. Monthly/2024-01.md",
     "SeSAC/4. Yearly/2024.md",
     "SeSAC/Attached file/Pasted image 20240102191257.png",
     "README.md",
-    "SeSAC/1. Daily/2024-01-02.md",
-    "무제 파일.canvas"
+    "SeSAC/1. Daily/2024-01-02.md"
   ]
 }
