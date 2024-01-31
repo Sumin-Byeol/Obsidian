@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-31.md",
+                "file": "SeSAC/1. Daily/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-31.md",
+                "file": "SeSAC/1. Daily/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-31.md",
+                "file": "SeSAC/1. Daily/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/1. Daily/2024-01-31.md"
+                "file": "SeSAC/1. Daily/2024-01-30.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "1bb57dabfee041ce",
   "lastOpenFiles": [
-    "SeSAC/1. Daily/2024-01-30.md",
     "SeSAC/1. Daily/2024-01-31.md",
+    "SeSAC/1. Daily/2024-01-30.md",
+    "SeSAC/1. Daily/2024-01-03.md",
+    "SeSAC/1. Daily/2024-01-02.md",
     "SeSAC/1. Daily/2024-01-29.md",
     "SeSAC/1. Daily/2024-01-22.md",
     "SeSAC/1. Daily/2024-01-18.md",
@@ -174,12 +176,10 @@
     "SeSAC/1. Daily/2024-01-08.md",
     "SeSAC/1. Daily/2024-01-09.md",
     "SeSAC/1. Daily/2024-01-13.md",
-    "SeSAC/1. Daily/2024-01-03.md",
     "SeSAC/2. Weekly/2024-W01.md",
     "SeSAC/3. Monthly/2024-01.md",
     "SeSAC/4. Yearly/2024.md",
     "SeSAC/Attached file/Pasted image 20240102191257.png",
-    "README.md",
-    "SeSAC/1. Daily/2024-01-02.md"
+    "README.md"
   ]
 }
