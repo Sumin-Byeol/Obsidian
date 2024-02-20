@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error Code.md"
+                "file": "SeSAC/1. Daily/2024-02-20.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "437590d587c4a1b4",
   "lastOpenFiles": [
+    "Error Code.md",
+    "SeSAC/1. Daily/2024-02-20.md",
     "Pasted image 20240215162719.png",
     "Pasted image 20240215161827.png",
-    "Error Code.md",
     "무제 파일 1.md",
     "SeSAC/Attached file/Pasted image 20240102191257.png",
     "SeSAC/1. Daily/2024-02-14.md",
