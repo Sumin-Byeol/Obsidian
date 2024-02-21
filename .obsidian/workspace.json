@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/1. Daily/2024-02-20.md",
+                "file": "SeSAC/1. Daily/2024-02-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/1. Daily/2024-02-20.md",
+                "file": "SeSAC/1. Daily/2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/1. Daily/2024-02-20.md",
+                "file": "SeSAC/1. Daily/2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/1. Daily/2024-02-20.md"
+                "file": "SeSAC/1. Daily/2024-02-21.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "437590d587c4a1b4",
   "lastOpenFiles": [
-    "Error Code.md",
     "SeSAC/1. Daily/2024-02-20.md",
+    "SeSAC/1. Daily/2024-02-21.md",
+    "Error Code.md",
     "Pasted image 20240215162719.png",
     "Pasted image 20240215161827.png",
     "무제 파일 1.md",
@@ -189,7 +190,6 @@
     "SeSAC/1. Daily/2024-01-15.md",
     "SeSAC/1. Daily/2024-01-12.md",
     "SeSAC/1. Daily/2024-01-05.md",
-    "SeSAC/1. Daily/2024-01-08.md",
-    "SeSAC/1. Daily/2024-01-09.md"
+    "SeSAC/1. Daily/2024-01-08.md"
   ]
 }
