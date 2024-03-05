@@ -13,4 +13,9 @@ model.fit(X_train, y_train) fit 선언 누락
 ![[Pasted image 20240305120700.png]]
  padding=0 
  input -> output  선언 확인 잘하기!
- 
+
+![[Pasted image 20240305164910.png]]
+
+
+
+![[Pasted image 20240305170023.png]]
