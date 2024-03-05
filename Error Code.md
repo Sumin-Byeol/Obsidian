@@ -14,7 +14,11 @@ model.fit(X_train, y_train) fit 선언 누락
  padding=0 
  input -> output  선언 확인 잘하기!
 
+
+
 ![[Pasted image 20240305164910.png]]
+**모델과 데이터의 `device` 일치 확인**: CUDA를 사용하는 경우, 모델과 입력 데이터가 동일한 `device`(예: CPU 또는 CUDA)에 위치해야 한다!
+
 
 
 
