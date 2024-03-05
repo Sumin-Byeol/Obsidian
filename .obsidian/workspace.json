@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error Code.md",
+                "file": "SeSAC/1. Daily/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error Code.md"
+                "file": "SeSAC/1. Daily/2024-03-05.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "a84f157c6613c23d",
   "lastOpenFiles": [
+    "Error Code.md",
     "Pasted image 20240305120700.png",
     "SeSAC/1. Daily/2024-03-05.md",
     "SeSAC/1. Daily/2024-03-04.md",
@@ -195,7 +196,6 @@
     "SeSAC/1. Daily/2024-02-08.md",
     "SeSAC/1. Daily/2024-02-07.md",
     "Pasted image 20240215162719.png",
-    "Error Code.md",
     "SeSAC/1. Daily/2024-02-22.md",
     "SeSAC/1. Daily/2024-02-21.md",
     "SeSAC/1. Daily/2024-02-20.md",
