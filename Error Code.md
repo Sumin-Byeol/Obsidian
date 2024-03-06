@@ -23,3 +23,7 @@ model.fit(X_train, y_train) fit 선언 누락
 
 
 ![[Pasted image 20240305170023.png]]
+
+
+![[Pasted image 20240306144646.png]]
+
