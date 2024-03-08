@@ -30,3 +30,23 @@ model.fit(X_train, y_train) fit 선언 누락
 
 
 ![[Pasted image 20240307155030.png]]
+
+
+
+
+![[Pasted image 20240308161850.png]]
+![[Pasted image 20240308162802.png]]
+변수 i 설정 안함!!!!
+
+
+
+
+
+
+![[Pasted image 20240308162201.png]]
+![[Pasted image 20240308163129.png]]
+
+w2i 앞에 len 함수 선언 안함!!!!!
+
+![[Pasted image 20240308163248.png]]
+cbow.parameters -> cbow.parameters() 확인 잘 하기!
